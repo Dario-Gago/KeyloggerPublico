@@ -29,7 +29,6 @@ pip install -r requerimientos.txt
 **Opciones adicionales de PyInstaller:**
 - `--onefile`: Crea un solo archivo .exe
 - `--windowed`: Oculta la ventana de consola (ejecuta en segundo plano)
-- `--add-data "lab_outputs;lab_outputs"`: Incluye la carpeta de salida
 - `--icon=icon.ico`: Agrega un icono personalizado
 
 ### 4. Crear el .exe
